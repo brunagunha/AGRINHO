@@ -1,19 +1,18 @@
 body{
-    background-color:rgb(216, 252, 221) ;
     padding: 0;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .cabecalho{
-    color: rgb(255, 255, 255);
-    background-color: rgb(13, 73, 23);
+    color: white;
+    background-color: rgb(34, 49, 29);
     text-align: center;
     padding: 30px;
 }
 
 .cabecalho h3{
-    color: rgb(153, 199, 159);
+    color: rgb(144, 255, 130);
 }
 
 p .alinha{
