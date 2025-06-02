@@ -1,5 +1,5 @@
 # AGRINHO
-Descrição do Site - Agrinho 2025: Festejando Conexão Campo e Cidade
+Festejando Conexão Campo e Cidade
 O site Agrinho 2025 celebra a união entre o campo e a cidade, destacando como essa interação é fundamental para o desenvolvimento sustentável e a melhoria da qualidade de vida. Cada seção do site explora um aspecto chave dessa relação, mostrando como a troca entre essas duas realidades pode beneficiar tanto o meio rural quanto o urbano.
 
 Página Inicial: Oferece uma visão geral sobre a importância da conexão entre campo e cidade, abordando os benefícios dessa integração para o desenvolvimento social, econômico e ambiental. A página serve como um portal para entender o impacto positivo dessa união para o futuro.
