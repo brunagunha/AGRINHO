@@ -21,7 +21,8 @@
 }
 
 .alinha{
-    text-align: right;
+    text-align: left;
+    font-size: 18px;
 }
 .img-agro{
     width: 300px;
